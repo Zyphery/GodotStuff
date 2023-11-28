@@ -1,0 +1,35 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bqtl221nsaah1"
+path.bptc="res://.godot/imported/UD_dir.png-29a2fc7d9d5a2df8a5cd0df810508b87.bptc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+
+[deps]
+
+source_file="res://addons/interactive_z/Dial3D/icons/UD_dir.png"
+dest_files=["res://.godot/imported/UD_dir.png-29a2fc7d9d5a2df8a5cd0df810508b87.bptc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=true
+compress/lossy_quality=0.0
+compress/hdr_compression=0
+compress/normal_map=2
+compress/channel_pack=1
+mipmaps/generate=false
+mipmaps/limit=-1
+roughness/mode=1
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=true
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0
